@@ -1,0 +1,3 @@
+.envrc
+node_modules
+/app/newrelic_agent.log
